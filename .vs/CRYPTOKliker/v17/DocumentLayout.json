@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|C:\\Users\\User\\source\\repos\\CRYPTOKliker\\cryptokliker\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|solutionrelative:cryptokliker\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|C:\\Users\\User\\source\\repos\\CRYPTOKliker\\cryptokliker\\view\\errorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|solutionrelative:cryptokliker\\view\\errorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|C:\\Users\\User\\source\\repos\\CRYPTOKliker\\cryptokliker\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|solutionrelative:cryptokliker\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|c:\\users\\user\\source\\repos\\cryptokliker\\cryptokliker\\view\\tradewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|solutionrelative:cryptokliker\\view\\tradewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|C:\\Users\\User\\source\\repos\\CRYPTOKliker\\cryptokliker\\view\\vivodwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|solutionrelative:cryptokliker\\view\\vivodwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|C:\\Users\\User\\source\\repos\\CRYPTOKliker\\cryptokliker\\view\\tradewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|solutionrelative:cryptokliker\\view\\tradewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|C:\\Users\\User\\source\\repos\\CRYPTOKliker\\cryptokliker\\view\\vivodwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|solutionrelative:cryptokliker\\view\\vivodwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|C:\\Users\\User\\source\\repos\\CRYPTOKliker\\cryptokliker\\view\\errorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|solutionrelative:cryptokliker\\view\\errorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|C:\\Users\\User\\source\\repos\\CRYPTOKliker\\cryptokliker\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|solutionrelative:cryptokliker\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|C:\\Users\\User\\source\\repos\\CRYPTOKliker\\cryptokliker\\viewmodel\\helpers\\bindingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455E763-3E6F-44F9-9914-B06811A32EC2}|CRYPTOKliker\\CRYPTOKliker.csproj|solutionrelative:cryptokliker\\viewmodel\\helpers\\bindingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BindingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\ViewModel\\Helpers\\BindingCommand.cs",
+              "RelativeDocumentMoniker": "CRYPTOKliker\\ViewModel\\Helpers\\BindingCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\ViewModel\\Helpers\\BindingCommand.cs",
+              "RelativeToolTip": "CRYPTOKliker\\ViewModel\\Helpers\\BindingCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:54:18.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\ErrorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CRYPTOKliker\\View\\ErrorWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\ErrorWindow.xaml.cs",
+              "RelativeToolTip": "CRYPTOKliker\\View\\ErrorWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:09:33.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TRADEWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\TRADEWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CRYPTOKliker\\View\\TRADEWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\TRADEWindow.xaml.cs",
+              "RelativeToolTip": "CRYPTOKliker\\View\\TRADEWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:59:25.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VivodWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\VivodWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CRYPTOKliker\\View\\VivodWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\VivodWindow.xaml.cs",
+              "RelativeToolTip": "CRYPTOKliker\\View\\VivodWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:11:53.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TRADEWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\TRADEWindow.xaml",
+              "RelativeDocumentMoniker": "CRYPTOKliker\\View\\TRADEWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\TRADEWindow.xaml",
+              "RelativeToolTip": "CRYPTOKliker\\View\\TRADEWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T20:13:06.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CRYPTOKliker\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CRYPTOKliker\\View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAnwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:53:32.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "CRYPTOKliker\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "CRYPTOKliker\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAiwHwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:11:42.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VivodWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\VivodWindow.xaml",
+              "RelativeDocumentMoniker": "CRYPTOKliker\\View\\VivodWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\VivodWindow.xaml",
+              "RelativeToolTip": "CRYPTOKliker\\View\\VivodWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T11:56:03.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CRYPTOKliker\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\MainWindow.xaml",
+              "RelativeToolTip": "CRYPTOKliker\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T18:33:43.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\ErrorWindow.xaml",
+              "RelativeDocumentMoniker": "CRYPTOKliker\\View\\ErrorWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRYPTOKliker\\CRYPTOKliker\\View\\ErrorWindow.xaml",
+              "RelativeToolTip": "CRYPTOKliker\\View\\ErrorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T19:20:15.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

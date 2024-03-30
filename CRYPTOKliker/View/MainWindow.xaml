@@ -1,0 +1,24 @@
+﻿<Window x:Class="CRYPTOKliker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CRYPTOKliker" xmlns:helpers="clr-namespace:CRYPTOKliker.ViewModel.Helpers" d:DataContext="{d:DesignInstance Type=helpers:MainViewModel}"
+        mc:Ignorable="d"
+        Title="CryptoKliker" Height="400" Width="675">
+    
+    <Grid Background="#FFF3DBBC">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="153*"/>
+            <RowDefinition Height="75*"/>
+            <RowDefinition Height="134*"/>
+            <RowDefinition Height="72*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="ClickButton" Content="Click Me!" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Command="{Binding ClickCommand}" Height="79" Width="160"  />
+        <StackPanel  Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center"  Height="54" Width="130" Grid.Row="1">
+            <TextBlock x:Name="ClickCountTextBox" Text="{Binding ClickCount}"  HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Top" Height="54" Width="52" FontSize="17" FontFamily="Algerian"  />
+            <TextBox Background="#FFF3DBBC" BorderThickness="0" TextWrapping="Wrap" Grid.Row="1" Text="KTON" Foreground="Gold" VerticalAlignment="Top" Width="81" Height="54"  IsEnabled="False" FontSize="18" FontFamily="Arial Black"  HorizontalAlignment="Left"/>
+        </StackPanel>
+        <Button x:Name="Trade" Content="TRADE" HorizontalAlignment="Right"  Width="70" Grid.Row="3" Command="{Binding TradeComand}"  />
+    </Grid>
+</Window>
